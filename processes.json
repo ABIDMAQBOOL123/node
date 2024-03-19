@@ -1,0 +1,26 @@
+[
+  {
+    "activeWindow": "processes.json - Node-active-win - Visual Studio Code",
+    "processName": "Visual Studio Code",
+    "timeStart": "2024-03-19T08:56:58.290Z",
+    "timeSpent": 4728
+  },
+  {
+    "activeWindow": "ChatGPT - Google Chrome",
+    "processName": "Google Chrome",
+    "timeStart": "2024-03-19T08:59:44.924Z",
+    "timeSpent": 11296
+  },
+  {
+    "activeWindow": "C:\\Windows\\System32\\cmd.exe",
+    "processName": "Windows Command Processor",
+    "timeStart": "2024-03-19T09:44:39.802Z",
+    "timeSpent": 0
+  },
+  {
+    "activeWindow": "File Explorer",
+    "processName": "Windows Explorer",
+    "timeStart": "2024-03-19T09:44:49.859Z",
+    "timeSpent": 1
+  }
+]
